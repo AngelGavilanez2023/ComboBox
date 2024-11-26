@@ -1,0 +1,44 @@
+
+
+
+
+0503614935
+AlvarezAm
+
+
+
+
+
+
+
+
+si te registrarte en el registro nacional en el periodo 20-24 da click en el check si caso contrario en el check no 
+
+
+
+
+
+
+Content/fotos/101.JPG
+ Width="70%" Style="display: normal;" CssClass="table-responsive">
+                <div class="panel panel-primary" style="border-radius: 20px;">
+                    <div class="panel-heading" style="position: relative; border-top-left-radius: 20px; border-top-right-radius: 20px;">
+                      
+                            <i class="fa fa-file fa-2x"></i>
+                            <label style="font-size: large">
+                                SISTEMA DE CALIFICACIONES
+                                            <br />
+                                .::BUSQUEDA DE DOCENTES::.</label>
+                   
+                        <div class="modal-salir">
+                            <span>
+                                <asp:LinkButton ID="btnSalirModal" runat="server"> <i class="fa fa-close fa-2x" style="color:black" ></i> </asp:LinkButton>
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="panel-body">
+
+ var item = "<div class='col-md-12' style='background-color:#D9EEE1; padding: 10; margin-top: 10;' id='panel4-funciones-contenido-" + nextinput + "'> <div class='col-md-12' style='text-align: right;'><button type='button' class='btn btn-danger' onclick='EliminarCampos(" + nextinput + ")'>X</button></div> <div  class='col-md-12'> <input type='text' placeholder='Ingrese nombre de la relación' id='panel4-nombre-" + nextinput + "' class='form-control'> </div> </br><div class='col-md-12'> <textarea id='panel4-detalle-" + nextinput + "'>" + value.detalle + "</textarea>"</div>" +
+                              //"<div class='col-md-12' style='background-color:#D9EEE1; padding: 10; margin-top: 10;' id='panel5-relaciones-contenido-" + nextinput5 + "'> <div class='col-md-12' style='text-align: right;'> <button type='button' class='btn btn-danger'  onclick='EliminarCampos1(" + nextinput5 + ")'>X</button></div> <div  class='col-md-12'><input type='text' placeholder='Ingrese nombre de la relación' id='panel5-nombre-" + nextinput5 + "' class='form-control'> </div> </br><div class='col-md-12'> <textarea class='form-control' id='panel5-detalle-" + nextinput5 + "' ></textarea></div>" +
+                  " </div>";
